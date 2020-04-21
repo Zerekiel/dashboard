@@ -1,2 +1,2 @@
 # dashboard
-NodeJs + electron Dashboard (free school project)
+NodeJs + electron Dashboard
